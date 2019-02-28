@@ -21,5 +21,7 @@ year. Looking at the circle corresponding to that year it's color is yed indicat
 ![alt text](https://github.com/BradenLee/Project1_Time_Series_Data/blob/master/Cowboys%202015.png)
 
 In 2018 The Chiefs started Patrick Mahomes as their quarterback. He proved to be one of the best new quarterbacks in the league for the 
-2018 season. That is reflected by the data with a huge increase in the average for the chiefs in 2018.
+2018 season. That is reflected by the data with a huge increase in the average for the chiefs in 2018. The circle for that year is green 
+which shows an increase of more than 7 points from the previous year.
 
+![alt text](https://github.com/BradenLee/Project1_Time_Series_Data/blob/master/Chiefs%202018.png)
