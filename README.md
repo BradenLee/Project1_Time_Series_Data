@@ -11,3 +11,4 @@ The drop down menus let you add a team to the graph, change the start year, and 
 On each line of the graph there are circles that represent the data for each year. 
 The red circles show when their was a drop of more than 7 points from the previous year, and green is a rise of more than 7.
 Hovering the mouse over a circle displays the team name, year, and average for that circle.
+
